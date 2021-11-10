@@ -1,4 +1,5 @@
 input/*
+input/info.csv
 __`git commit.command
 .DS_Store
 .DS_Store?
